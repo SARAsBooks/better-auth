@@ -180,6 +180,6 @@ To begin working on this feature:
    - The database schema in `/packages/better-auth/src/db/schema.ts`
    - The adapter interface in `/packages/better-auth/src/types/adapter.ts`
 
-2. Review the full proposal document in [`feat/identifier-table.md`](../identifier-table.md)
+2. Review the full proposal document in [`feat/identifier-table/proposal.md`](proposal.md)
 
 3. Consult the testing strategy in `feat/identifier-table/testing-strategy.md`
